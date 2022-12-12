@@ -1,0 +1,51 @@
+body {
+    font-family:  "Droid serif", "Segoe UI Light", sans-serif;
+    background-image: url("фон.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Droid serif", "Segoe UI Light", sans-serif;
+    color: rgb(130, 93, 147);
+    text-align: center;
+    height: 25px;
+    
+}
+
+h2 {
+    font-size: 25px;
+    font-family: "Droid serif", "Segoe UI Light", sans-serif;
+    color: rgb(130, 93, 147);
+    text-align: center;
+
+}
+
+.b1 {
+    background-color: rgb(130, 93, 147);
+    height: 140px;
+    padding: 20px;
+    width: 250px;
+   margin: 0 auto;
+    text-align: center;
+    border-radius: 50% 20% / 10% 40%;
+    color:rgb(237, 224, 248);
+}
+
+.v {
+    font-size: 17px;
+    font-family: "Droid serif", "Segoe UI Light", sans-serif;
+    color: rgb(130, 93, 147);
+    text-align: center;
+    margin-bottom: 60px;
+    margin: 0 auto;
+}
+
+.kn {
+    margin-top: -30px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 40px;
+    margin: 0 auto;
+}
+   
